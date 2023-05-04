@@ -1,0 +1,141 @@
+.a-carta {
+    background-color: #ca0022a6;
+    border: 2px solid #9c0000;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  .a-carta h2 {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #d83b55;
+  }
+  
+  .carta-container {
+    background-color: #ffffff;
+    border: 2px solid #8b0114;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  body {
+    background-image: url("imgs/54afd1d842dbcd6734b291174c206e7a.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+nav {
+    
+    background-color: #080808;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+  }
+  
+  li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  li a:hover {
+    color: #FF69B4;
+  }
+  
+  section {
+    margin-top: 80px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #FF69B4;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #333;
+  }
+  .historia-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  
+  .historia-container {
+    background-color: #f80c0c;
+    border: 2px solid #750303;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  .historia-container h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #d83b3b;
+  }
+  
+  .imagens-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .imagens-container img {
+    margin: 0 10px;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  audio {
+    background-color: #f5f5f5;
+  }
+  
+  audio::-webkit-media-controls-progress-bar {
+    background-color: #f70303;
+  }
+  
+  audio::-moz-range-progress {
+    background-color: #fc0505;
+  }
+  
+  
+
+  
